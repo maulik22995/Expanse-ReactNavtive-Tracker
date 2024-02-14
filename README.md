@@ -1,6 +1,6 @@
 # Explanse Tracker sample
 
-#### This is sample project shows applicationn of Firebase as backend to add/update/delete your expanse.
+This is sample project shows applicationn of Firebase as backend to add/update/delete your expanse.
 
 
 ## Checkout  video sample :
