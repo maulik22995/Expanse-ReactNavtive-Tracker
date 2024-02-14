@@ -1,3 +1,15 @@
+# Explanse Tracker sample
+
+#### This is sample project shows applicationn of Firebase as backend to add/update/delete your expanse.
+
+
+## Checkout  video sample :
+
+
+![](https://github.com/maulik22995/Expanse-ReactNavtive-Tracker/blob/main/sample/expnase-sample.gif)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
